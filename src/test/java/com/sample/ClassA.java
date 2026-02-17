@@ -17,4 +17,19 @@ public class ClassA {
 
 	}
 
+	private void webAppTesting() {
+		System.out.println("Selenium");
+
+	}
+
+	private void mobileAppTesting() {
+		System.out.println("Appium");
+
+	}
+
+	private void backendTesting() {
+		System.out.println("Postman");
+
+	}
+
 }
