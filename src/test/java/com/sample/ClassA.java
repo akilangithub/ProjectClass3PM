@@ -16,5 +16,21 @@ public class ClassA {
 		System.out.println("3");
 
 	}
+	
+	private void agile() {
+		System.out.println("Agile");
+
+	}
+	
+	private void waterfall() {
+		System.out.println("Waterfall");
+
+	}
+	
+	private void jira() {
+		System.out.println("JIRA");
+
+	}
+	
 
 }
