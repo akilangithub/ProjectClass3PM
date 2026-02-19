@@ -31,5 +31,20 @@ public class ClassA {
 		System.out.println("Postman");
 
 	}
+	
+	private void agile() {
+		System.out.println("Agile");
+
+	}
+	
+	private void waterfall() {
+		System.out.println("Waterfall");
+
+	}
+	
+	private void jira() {
+		System.out.println("JIRA");
+
+	}
 
 }
